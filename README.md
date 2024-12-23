@@ -23,7 +23,7 @@ AirConnect is developed by Enes Can Adil.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/c4nng/AirConnect.git
+    git clone https://github.com/Bereo22/AirConnect-main
     ```
 
 2. Navigate to the project directory:
@@ -59,4 +59,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For more information or to follow updates, visit our GitHub repository: [AirConnect on GitHub](https://github.com/c4nng/AirConnect)
+"# AirConnect-main" 
 "# AirConnect-main" 
